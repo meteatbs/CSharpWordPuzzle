@@ -1,0 +1,12 @@
+C:\Users\metea\source\repos\CrossWordPuzle\CrossWordPuzle\bin\Debug\CrossWordPuzle.exe.config
+C:\Users\metea\source\repos\CrossWordPuzle\CrossWordPuzle\bin\Debug\CrossWordPuzle.exe
+C:\Users\metea\source\repos\CrossWordPuzle\CrossWordPuzle\bin\Debug\CrossWordPuzle.pdb
+C:\Users\metea\source\repos\CrossWordPuzle\CrossWordPuzle\obj\Debug\CrossWordPuzle.csprojAssemblyReference.cache
+C:\Users\metea\source\repos\CrossWordPuzle\CrossWordPuzle\obj\Debug\CrossWordPuzle.Form1.resources
+C:\Users\metea\source\repos\CrossWordPuzle\CrossWordPuzle\obj\Debug\CrossWordPuzle.Properties.Resources.resources
+C:\Users\metea\source\repos\CrossWordPuzle\CrossWordPuzle\obj\Debug\CrossWordPuzle.csproj.GenerateResource.cache
+C:\Users\metea\source\repos\CrossWordPuzle\CrossWordPuzle\obj\Debug\CrossWordPuzle.exe
+C:\Users\metea\source\repos\CrossWordPuzle\CrossWordPuzle\obj\Debug\CrossWordPuzle.pdb
+C:\Users\metea\source\repos\CrossWordPuzle\CrossWordPuzle\obj\Debug\CrossWordPuzle.Clues.resources
+C:\Users\metea\source\repos\CrossWordPuzle\CrossWordPuzle\bin\Debug\Puzzles\puzzle_1.pzl
+C:\Users\metea\source\repos\CrossWordPuzle\CrossWordPuzle\bin\Debug\Puzzles\puzzle_2.pzl
